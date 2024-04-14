@@ -11,11 +11,28 @@
             "id": "0ca3cfc4f3bdbfe9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dump/Github Setup - Laptop.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "456b39ff6d50677e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Docker.md"
               }
             }
           },
@@ -120,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Docker.md"
               }
             }
           }
@@ -137,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,24 +216,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "557827a0123fbd23",
+  "active": "456b39ff6d50677e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Consolidated/Neovim Consolidated Tutorial.md",
-    "Wezterm - Terminal Setup.md",
+    "dump/Github Setup - Laptop.md",
+    "Docker.md",
+    "Untitled",
     "Consolidated/Setting Up a Mac.md",
-    "Vim Global Command (g).md",
-    "Oh-My-ZSH Setup (Terminal).md",
-    "Neovim Visual Mode.md",
-    "Consolidated",
-    "Neovim Commands - Quick Recap.md",
-    "NeoVIM Insert Mode.md",
+    "Github Setup - Laptop.md",
+    "Consolidated/Neovim Consolidated Tutorial.md",
+    "Consolidated/Homebrew - MacOS Package Manager.md",
+    "Consolidated/Github Management.md",
+    "dump/Neovim Commands - Quick Recap.md",
+    "dump/NeoVIM Insert Mode.md",
+    "dump/Neovim Visual Mode.md",
     "dump/attachments/Pasted image 20240325001824.png",
     "dump/attachments/Pasted image 20240325001146.png",
     "dump/attachments/Pasted image 20240324234123.png",
-    "Homebrew - MacOS Package Manager.md",
+    "dump/Wezterm - Terminal Setup.md",
+    "dump/Vim Global Command (g).md",
+    "dump/Oh-My-ZSH Setup (Terminal).md",
+    "Untitled.canvas",
+    "Consolidated",
     "Excalidraw/NeoVIM.excalidraw.md",
-    "Github Setup - Laptop.md",
     "Excalidraw/Drawing 2024-03-23 01.02.43.excalidraw.md",
     "Excalidraw",
     "dump/templates",

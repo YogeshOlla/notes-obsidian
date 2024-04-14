@@ -8,5 +8,6 @@
     "dump/"
   ],
   "strictLineBreaks": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
