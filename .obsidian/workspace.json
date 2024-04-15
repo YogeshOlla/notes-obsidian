@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "Learning/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "Learning/Docker.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Docker.md"
+                "file": "Learning/Docker.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "Learning/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Learning/Docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,14 +205,14 @@
   },
   "active": "a17a47cdfaa7edd4",
   "lastOpenFiles": [
-    "Consolidated/Github Management.md",
-    "Learning/Airflow.md",
-    "Docker.md",
-    "Learning/Docker.md",
     "Learning/Learning Plan.md",
+    "Learning/Airflow.md",
+    "Consolidated/Github Management.md",
+    "Learning/Docker.md",
+    "Learning",
+    "Docker.md",
     "dump/Github Setup - Laptop.md",
     "Consolidated/Setting Up a Mac.md",
-    "Learning",
     "Consolidated/Neovim Consolidated Tutorial.md",
     "Consolidated/Homebrew - MacOS Package Manager.md",
     "Github Setup - Laptop.md",

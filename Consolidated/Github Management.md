@@ -8,7 +8,7 @@ Prerequisits
 curl -H "Authorization: token YOUR_TOKEN" https://api.github.com/user/repos
 
 ### Create a repository
-curl -X POST -H "Authorization: token YOUR_TOKEN" -d '{"name": "new-repo", "private": true}' https://api.github.com/user/repos
+curl -X POST -H "Authorization: token $GITHUB_TOKEN" -d '{"name": "notes", "private": false}' https://api.github.com/YogeshOlla/repos
 
 ### Get repository information
 curl -H "Authorization: token YOUR_TOKEN" https://api.github.com/repos/OWNER/REPO_NAME
