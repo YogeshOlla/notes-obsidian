@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d9bfff4c74782d30",
+        "id": "5ed75d31ccc57592",
         "type": "tabs",
         "children": [
           {
-            "id": "0ca3cfc4f3bdbfe9",
+            "id": "a17a47cdfaa7edd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dump/Github Setup - Laptop.md",
-                "mode": "preview",
+                "file": "Learning/Airflow.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "456b39ff6d50677e",
+            "id": "76ffbd455c7ac9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
-                "mode": "preview",
+                "file": "Learning/Docker.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": ""
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "Learning/Airflow.md"
               }
             }
           },
@@ -137,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Docker.md"
+                "file": "Learning/Airflow.md"
               }
             }
           }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "Learning/Airflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Learning/Airflow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,16 +215,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "456b39ff6d50677e",
+  "active": "a17a47cdfaa7edd4",
   "lastOpenFiles": [
+    "Learning/Docker.md",
+    "Learning/Airflow.md",
+    "Learning/Learning Plan.md",
     "dump/Github Setup - Laptop.md",
-    "Docker.md",
-    "Untitled",
     "Consolidated/Setting Up a Mac.md",
-    "Github Setup - Laptop.md",
+    "Learning",
     "Consolidated/Neovim Consolidated Tutorial.md",
     "Consolidated/Homebrew - MacOS Package Manager.md",
     "Consolidated/Github Management.md",
+    "Github Setup - Laptop.md",
     "dump/Neovim Commands - Quick Recap.md",
     "dump/NeoVIM Insert Mode.md",
     "dump/Neovim Visual Mode.md",
