@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Docker.md",
+                "file": "Novo/Loan Tape.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "377d00c5d9308c40",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Docker.md"
+                "file": "Novo/Loan Tape.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Learning/Docker.md"
+                "file": "Novo/Loan Tape.md"
               }
             }
           }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Docker.md",
+                "file": "Novo/Loan Tape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Docker.md",
+                "file": "Novo/Loan Tape.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,16 +200,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a17a47cdfaa7edd4",
+  "active": "557827a0123fbd23",
   "lastOpenFiles": [
+    "Learning/Docker.md",
+    "Novo/Loan Tape.md",
+    "Novo",
     "Learning/Learning Plan.md",
     "Learning/Airflow.md",
     "Consolidated/Github Management.md",
-    "Learning/Docker.md",
     "Learning",
     "Docker.md",
     "dump/Github Setup - Laptop.md",
