@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Docker.md",
+                "file": "Learning/Airflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "840d6aa4871765e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Interview Prep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Docker.md"
+                "file": "Learning/Interview Prep.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Learning/Docker.md"
+                "file": "Learning/Interview Prep.md"
               }
             }
           }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Docker.md",
+                "file": "Learning/Interview Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Docker.md",
+                "file": "Learning/Interview Prep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,12 +216,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a17a47cdfaa7edd4",
+  "active": "557827a0123fbd23",
   "lastOpenFiles": [
-    "Learning/Learning Plan.md",
     "Learning/Airflow.md",
-    "Consolidated/Github Management.md",
+    "Learning/Interview Prep.md",
     "Learning/Docker.md",
+    "Learning/Learning Plan.md",
+    "Consolidated/Github Management.md",
     "Learning",
     "Docker.md",
     "dump/Github Setup - Laptop.md",
