@@ -10,10 +10,9 @@ Feedback from @nancy
 3. total /monthly amount drawn
 4. Credit Limit
 5. principal balance
-6. DQ FLAG
-7. DQ CURED
-8. TIMES DQ
-9. DQ BUCKET
+6. DQ FLAG /
+7. DQ CURED / -- max dq till date vs current dq
+9. DQ BUCKET / -- based on max dq
 10. INTERNAL_P_CHARGE_OFF (60 DPD)
 11. INTERNAL_F_CHARGE_OFF (60 DPD)
 12. INTERNAL_T_CHARGE_OFF (60 DPD)

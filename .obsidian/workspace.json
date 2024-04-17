@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "377d00c5d9308c40",
@@ -204,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "557827a0123fbd23",
+  "active": "a17a47cdfaa7edd4",
   "lastOpenFiles": [
-    "Learning/Docker.md",
+    "Consolidated/Setting Up a Mac.md",
     "Novo/Loan Tape.md",
+    "Learning/Docker.md",
     "Novo",
     "Learning/Learning Plan.md",
     "Learning/Airflow.md",
@@ -215,7 +215,6 @@
     "Learning",
     "Docker.md",
     "dump/Github Setup - Laptop.md",
-    "Consolidated/Setting Up a Mac.md",
     "Consolidated/Neovim Consolidated Tutorial.md",
     "Consolidated/Homebrew - MacOS Package Manager.md",
     "Github Setup - Laptop.md",
