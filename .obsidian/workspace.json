@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Airflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "840d6aa4871765e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Interview Prep.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Interview Prep.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Learning/Interview Prep.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Interview Prep.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Interview Prep.md",
+                "file": "Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,50 +199,52 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "557827a0123fbd23",
+  "active": "a17a47cdfaa7edd4",
   "lastOpenFiles": [
     "Novo/Loan Tape.md",
-    "Novo",
-    "Learning/Airflow.md",
-    "Learning/Interview Prep.md",
-    "Learning/Docker.md",
+    "Learning/Organised Learning Plan.md",
     "Learning/Learning Plan.md",
-    "Consolidated/Github Management.md",
-    "Learning",
-    "Docker.md",
-    "dump/Github Setup - Laptop.md",
+    "Learning/Docker.md",
+    "Learning/Interview Prep.md",
+    "Learning/Temp.md",
+    "Notes.md",
+    "Novo/Vintage Table.md",
+    "Learning/Airflow.md",
     "Consolidated/Setting Up a Mac.md",
     "Consolidated/Neovim Consolidated Tutorial.md",
     "Consolidated/Homebrew - MacOS Package Manager.md",
-    "Github Setup - Laptop.md",
-    "dump/Neovim Commands - Quick Recap.md",
-    "dump/NeoVIM Insert Mode.md",
-    "dump/Neovim Visual Mode.md",
+    "Consolidated/Github Management.md",
+    "dump/attachments/Pasted image 20240417130932.png",
     "dump/attachments/Pasted image 20240325001824.png",
     "dump/attachments/Pasted image 20240325001146.png",
     "dump/attachments/Pasted image 20240324234123.png",
+    "dump/attachments",
     "dump/Wezterm - Terminal Setup.md",
     "dump/Vim Global Command (g).md",
     "dump/Oh-My-ZSH Setup (Terminal).md",
-    "Untitled.canvas",
+    "dump/Neovim Visual Mode.md",
+    "dump/Neovim Commands - Quick Recap.md",
+    "dump/NeoVIM Insert Mode.md",
+    "dump/Github Setup - Laptop.md",
+    "dump",
+    "Novo",
+    "Learning",
     "Consolidated",
+    "Docker.md",
+    "Github Setup - Laptop.md",
+    "Untitled.canvas",
     "Excalidraw/NeoVIM.excalidraw.md",
     "Excalidraw/Drawing 2024-03-23 01.02.43.excalidraw.md",
     "Excalidraw",
     "dump/templates",
     "Presentation 1.md",
     "dump/attachments/Birth Certificate.jpg",
-    "dump/attachments",
-    "dump",
     "10th Marks Sheet.jpg",
     "Neovim User Guide.md",
-    "nvim",
-    "Neovim Plugins.md",
-    "Neovim Setup.md",
-    "Welcome.md"
+    "nvim"
   ]
 }

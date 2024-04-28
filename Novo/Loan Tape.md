@@ -1,21 +1,18 @@
 
 Feedback from @nancy
-1. Gross Principal Amount Charged Off should always be greater than Net Principal Amount Charged Off. (The point seems wrong)
-2. WHEN STATUS = CHARGE_OFF THEN NULL ELSE OUTSTANDING
+1. ~~Gross Principal Amount Charged Off should always be greater than Net Principal Amount Charged Off. (The point seems wrong)~~
+2. ~~WHEN STATUS = CHARGE_OFF THEN NULL ELSE OUTSTANDING~~~~
 
-# VINTAGE TABLES
+FIXES:
+1. LAST_PAYMENT_DATE IS ALWAYS LATEST
+2. ~~NET CHARGE OFF AMOUNTS ARE BEING CALCULATED EVEN WHEN CHARGE OFF IS NOT DONE~~
+3. CHAR OFF WAS DONE ON 31 BUY AMOUNT WAS MOVED EARLIER, ALSO NET CHARGE OFF IS FILLED IN ALL ROWS
+   ![[Pasted image 20240417130932.png]]
+4. ~~Change source of cohort from accounts to min_created at from lending_transactions~~
 
-1. acrued revenue
-2. monthly renvue (FACTOR FEE + LATE_FEE)
-3. total /monthly amount drawn
-4. Credit Limit
-5. principal balance
-6. DQ FLAG /
-7. DQ CURED / -- max dq till date vs current dq
-9. DQ BUCKET / -- based on max dq
-10. INTERNAL_P_CHARGE_OFF (60 DPD)
-11. INTERNAL_F_CHARGE_OFF (60 DPD)
-12. INTERNAL_T_CHARGE_OFF (60 DPD)
-13. NET REV : ACRUED - CO
-14. Cost of Funds : 11 % (monthly level just /12)
-Net revnue, accrued rev, CO, Util, Principal balance,
+
+
+## UPDATES
+
+1. Add is_incremental block on the limit and filter condition
+2. make it easier to backfill (explore edits to the execution command on deployment ??)
