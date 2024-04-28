@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Learning/Organised Learning Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Learning/Organised Learning Plan.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes.md"
+                "file": "Learning/Organised Learning Plan.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Learning/Organised Learning Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Learning/Organised Learning Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,21 +203,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a17a47cdfaa7edd4",
+  "active": "557827a0123fbd23",
   "lastOpenFiles": [
+    "dump/Github Setup - Laptop.md",
+    "Consolidated/Homebrew - MacOS Package Manager.md",
+    "Consolidated/Neovim Consolidated Tutorial.md",
+    "Consolidated/Setting Up a Mac.md",
+    "Consolidated/Github Management.md",
+    "Notes.md",
     "Novo/Loan Tape.md",
     "Learning/Organised Learning Plan.md",
     "Learning/Learning Plan.md",
     "Learning/Docker.md",
     "Learning/Interview Prep.md",
     "Learning/Temp.md",
-    "Notes.md",
     "Novo/Vintage Table.md",
     "Learning/Airflow.md",
-    "Consolidated/Setting Up a Mac.md",
-    "Consolidated/Neovim Consolidated Tutorial.md",
-    "Consolidated/Homebrew - MacOS Package Manager.md",
-    "Consolidated/Github Management.md",
     "dump/attachments/Pasted image 20240417130932.png",
     "dump/attachments/Pasted image 20240325001824.png",
     "dump/attachments/Pasted image 20240325001146.png",
@@ -229,7 +230,6 @@
     "dump/Neovim Visual Mode.md",
     "dump/Neovim Commands - Quick Recap.md",
     "dump/NeoVIM Insert Mode.md",
-    "dump/Github Setup - Laptop.md",
     "dump",
     "Novo",
     "Learning",
