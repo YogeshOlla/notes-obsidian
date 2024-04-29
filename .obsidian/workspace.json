@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Organised Learning Plan.md",
+                "file": "Learning/DE_ZOOMCAMP/Setting Up Github Codespace.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Organised Learning Plan.md"
+                "file": "Learning/DE_ZOOMCAMP/Setting Up Github Codespace.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Learning/Organised Learning Plan.md"
+                "file": "Learning/DE_ZOOMCAMP/Setting Up Github Codespace.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Organised Learning Plan.md",
+                "file": "Learning/DE_ZOOMCAMP/Setting Up Github Codespace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Organised Learning Plan.md",
+                "file": "Learning/DE_ZOOMCAMP/Setting Up Github Codespace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,8 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "557827a0123fbd23",
+  "active": "a17a47cdfaa7edd4",
   "lastOpenFiles": [
+    "Learning/Airflow.md",
+    "Learning/DE_ZOOMCAMP/Setting Up Github Codespace.md",
+    "Learning/DE_ZOOMCAMP",
+    "Learning/Organised Learning Plan.md",
     "dump/Github Setup - Laptop.md",
     "Consolidated/Homebrew - MacOS Package Manager.md",
     "Consolidated/Neovim Consolidated Tutorial.md",
@@ -212,13 +216,11 @@
     "Consolidated/Github Management.md",
     "Notes.md",
     "Novo/Loan Tape.md",
-    "Learning/Organised Learning Plan.md",
     "Learning/Learning Plan.md",
     "Learning/Docker.md",
     "Learning/Interview Prep.md",
     "Learning/Temp.md",
     "Novo/Vintage Table.md",
-    "Learning/Airflow.md",
     "dump/attachments/Pasted image 20240417130932.png",
     "dump/attachments/Pasted image 20240325001824.png",
     "dump/attachments/Pasted image 20240325001146.png",
@@ -244,7 +246,6 @@
     "Presentation 1.md",
     "dump/attachments/Birth Certificate.jpg",
     "10th Marks Sheet.jpg",
-    "Neovim User Guide.md",
     "nvim"
   ]
 }
