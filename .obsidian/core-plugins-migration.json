@@ -9,7 +9,7 @@
   "tag-pane": true,
   "properties": true,
   "page-preview": true,
-  "daily-notes": false,
+  "daily-notes": true,
   "templates": true,
   "note-composer": true,
   "command-palette": true,
@@ -23,8 +23,8 @@
   "word-count": true,
   "slides": true,
   "audio-recorder": false,
-  "workspaces": false,
-  "file-recovery": false,
+  "workspaces": true,
+  "file-recovery": true,
   "publish": false,
-  "sync": false
+  "sync": true
 }

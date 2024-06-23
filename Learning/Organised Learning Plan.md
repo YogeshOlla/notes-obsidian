@@ -7,5 +7,7 @@
 7. NoSQL (MongoDB)
 8. Data Quality and Governance
 
-https://www.amazon.in/dp/1775093301?cspi=aafb0a858dea24942ed61ab3f35745f4fdbd0fd3764bc599257757433b1b86e8e77d4e4f439457a758c5e359d65b90d756daba809c1c754958ed1155844275d4&ref_=cm_sw_r__bks_apin_dp_M5B95MKA4R8TQFBCHQEF
 
+
+## BOOKS
+1. [Python Tricks: A Buffet Of Awesome Python Features](https://www.amazon.in/dp/1775093301?cspi=aafb0a858dea24942ed61ab3f35745f4fdbd0fd3764bc599257757433b1b86e8e77d4e4f439457a758c5e359d65b90d756daba809c1c754958ed1155844275d4&ref_=cm_sw_r__bks_apin_dp_M5B95MKA4R8TQFBCHQEF)

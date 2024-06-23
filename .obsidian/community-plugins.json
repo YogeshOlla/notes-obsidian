@@ -1,9 +1,6 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
-  "obsidian-advanced-slides",
-  "dataview"
+  "dataview",
+  "obsidian-minimal-settings",
+  "obsidian-omnivore"
 ]
